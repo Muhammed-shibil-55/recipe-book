@@ -1,0 +1,4 @@
+recipe name  : chicken cutlet
+incredient : chicken 500 g
+             chilly powder 2 tsp
+             salt avashyathin
